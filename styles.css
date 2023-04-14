@@ -1,0 +1,23 @@
+body {
+    background-color: #EEEEEE;
+}
+
+.text_indent_phone {
+    margin-left: 20px;
+}
+
+.text_indent_tg {
+    margin-left: 11px;
+}
+
+.text_indent_mail{
+    margin-left: 20px;
+}
+
+.text_indent_github{
+    margin-left: 18px;
+}
+
+.text_indent_work_experience {
+    margin-top: 100px;
+}
